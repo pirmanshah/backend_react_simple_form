@@ -8,7 +8,7 @@ Download or clone repository:
 git clone https://github.com/pirmanshah/backend_react_simple_form.git
 ```
 
-Instal dependencies:
+Install dependencies:
 
 ```
 npm install
@@ -20,7 +20,7 @@ Database migrations:
 npx sequelize-cli db:migrate
 ```
 
-Database seeds:
+Database seed:
 
 ```
 npx sequelize-cli db:seed:all
